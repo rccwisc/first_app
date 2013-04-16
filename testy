@@ -1,0 +1,153 @@
+<html>
+<head><title> some stuff </title></head>
+  <body>
+	<table align="left" cellspacing="0" cellpadding="8" border="3" 
+	   style="width: 600px; margin-left:50px; font-family:Verdana, Geneva, sans-serif; color:#3b3b3b; font-size: 12px; line-height: 18px;">
+	<tr style="border:0px"><td style="text-align:left; border:0px"><b>Important Auto Pay Information</b></td></tr>
+    <tr style="border:0px;"><td style="border:0px;">
+    <table  cellspacing="0" cellpadding="0" border="0" style="width: 700px;">
+	  <tr style="border:0px;"><td style="border:0px;">
+	  <table align="left" cellspacing="0" cellpadding="0" border="0" 
+	    style="width: 400px; margin-bottom:0px; padding-bottom:0px; font-family:Verdana, Geneva, sans-serif; color:#3b3b3b; font-size: 12px; line-height: 18px;" > 
+		<tr><td style="width: 40px; text-align: right; vertical-align: top;">
+			 <span style="margin-bottom: 0px; font-weight: bold; padding-right: 10px;">
+					&bull;
+             </span>					
+			</td>
+			<td style="border:0px; margin-bottom: 0px;">
+			<span>
+			Your bank account information from your previous servicer transferred to us, but we will not withdraw any automatic payments at this time.</span></td>
+		</tr>
+	  </table>
+	  <table  cellspacing="0" cellpadding="0" border="0" style="width: 100px; margin-bottom:0px; padding-bottom:0px;" > 
+			<tr><td><img src="cal.jpg" height="72" width="72" alt="calendar" /></td></tr>
+	  </table>
+	  </td></tr>
+	</table>
+	<table cellspacing="0" cellpadding="0" border="0" style="margin-bottom: 0px; font-family:Verdana, Geneva, sans-serif; color:#3b3b3b; font-size: 12px; line-height: 18px;">
+	<tr style="border:0px;">
+		<td style="width: 40px; text-align: right; vertical-align: top;">
+		<span style="margin-bottom: 0px; font-weight: bold; padding-right: 10px;">
+				&bull;
+	   </span>
+		</td>
+		<td style="border:0px ">
+		<span style=" border:0px; margin-bottom: 0px;">
+		View a summary of your accounts by logging into your <a href="$global_mgl_borrower_login_url" style="text-decoration: underline;">Account Summary.</a>
+		</span></td>
+	</tr>
+	<tr style="border:0px;">
+	    <td style="width: 40px; text-align: right; vertical-align: top;">
+		<span style="margin-bottom:0px; font-weight: bold; padding-right:10px;">
+				&bull;
+		</span>
+		</td>
+		<td style="border:0px ">
+		<span style="border:0px; margin-bottom: 0px;">
+        Before you’re required to make payments, we’ll send you a notice with the payment amount and date that the withdrawal will be made from the transferred bank account for all accounts we service.
+		</span></td>
+	</tr>
+	<tr style="border:0px;">
+	    <td style="width: 40px; text-align: right; vertical-align: top; border:0px">
+		<span style="margin-bottom:0px; font-weight: bold; padding-right:10px;">
+				&bull;
+		</span>
+		</td>
+		<td style="border:0px;">
+		<span style="border:0px; margin-bottom: 0px;">
+        If you would like to have payments pulled while not in repayment, stop automatic payments, or change your bank account information, <a href="$global_auto_pay_url" style="text-decoration: underline;"> visit our website.</a>
+		</span>
+		</td>
+     </tr>
+	</table>
+	</td></tr>
+	<tr style="border:0px;"><td style="margin-top:18px; padding-top:18px text-align:left; border:0px;"><b>Interest Rate Reduction</b></td></tr>
+	<tr style="border:0px;"><td style="margin-top:18px; padding-top:18px text-align:left; border:0px;">
+		<span style="padding-bottom: 0px;">
+		If you’re paying back any of your loans and your lender offers an interest rate reduction for making automatic payments, here’s some information you need to know.</span></td>
+	</tr>
+    <tr style="border:0px;"><td style="border:0px;">
+	<table cellspacing="0" cellpadding="0" border="0" 
+	 style="font-family:Verdana, Geneva, sans-serif; color:#3b3b3b; font-size: 12px; line-height: 18px;">
+    <tr style="border:0px;"><td style="width: 40px; text-align: right; vertical-align: top;">
+			<span style="margin-bottom: 0px; font-weight: bold; padding-right: 10px;">
+				&bull;
+			</span>
+		</td>
+		<td style="border:0px;">
+		<span style="margin-bottom: 0px;">
+		Your monthly payment amount won’t change, but you’ll pay your loan back faster than you were scheduled to, which saves you money in interest.</span></td>
+	</tr>
+	<tr style="border:0px;">
+		<td style="width: 40px; text-align: right; vertical-align: top;">
+		<span style="margin-bottom: 0px; font-weight: bold; padding-right: 10px;">
+				&bull;
+	   </span>
+		</td>
+		<td style="border:0px;">
+		<span style="margin-bottom:0px;">
+		You’ll lose the incentive if:</span></td>
+	</tr>
+	
+    <table cellspacing="0" cellpadding="0" border="0"               
+	  style="font-family:Verdana, Geneva, sans-serif; color:#3b3b3b; font-size: 12px; line-height: 18px;" >
+		<tr style="border:0px;"><td style="border:0px;">
+			<tr style="border:0px;">
+				<td style="width: 40px; text-align: right; vertical-align: top;">
+				<span style="margin-bottom: 0px; font-weight: bold; padding-left: 52px;">
+						&deg;
+			   </span>
+				</td>
+				<td style="border:0px">
+				<span style="margin-bottom:0px; padding-left:9px">
+				You choose to leave Auto Pay—you’ll need to re-enroll to earn the benefit again.</span></td>
+			</tr>
+			
+			<tr style="border:0px;">
+				<td style="width: 40px; text-align: right; vertical-align: top;">
+				<span style="margin-bottom: 0px; font-weight: bold; padding-left: 52px;">
+						&deg;
+			   </span>
+				</td>
+				<td style="border:0px">
+				<span style="margin-bottom:0px; padding-left:9px">
+				Money cannot be automatically withdrawn from the checking or savings account you designate.</span></td>
+			</tr>
+		</td></tr>
+	</table> 
+                       
+	<table align="center" cellspacing="0" cellpadding="0" border="0" style="font-family:Verdana, Geneva, sans-serif; color:#3b3b3b; font-size: 12px; line-height: 18px;"  >
+	<tr style="border:0px;">
+	    <td style="width: 40px; text-align: right; vertical-align: top;">
+		<span style="margin-bottom: 0px; font-weight: bold; padding-right: 10px;">
+				&bull;
+		</span>
+		</td>
+		<td style="border:0px;">
+		<span style="margin-bottom:0px;">
+         If you enter a deferment or forbearance, the interest rate reduction may be temporarily suspended.
+		</span></td>
+	</tr>
+	<tr style="border:0px;">
+	    <td style="width: 40px; text-align: right; vertical-align: top;">
+		<span style="margin-bottom: 0px; font-weight: bold; padding-right: 10px;">
+				&bull;
+			</span>
+		</td>
+		<td style="border:0px;">
+		<span style="margin-bottom:0px;">
+        If you consolidate your loan, the reduced rate won’t be used to calculate the interest rate on your consolidation loan.</span>
+		</td>
+    </tr>
+	</table> 
+	</table>
+	</td></tr>
+	</table>
+	<br>
+	<br>
+	<br>
+	<p style="font-size: 1px; color: white; margin-bottom: 18px;">
+	<xgl>2VQTQ5MJ4UVBYDXFM</xgl>
+	</p>
+	</body>
+	</html>
